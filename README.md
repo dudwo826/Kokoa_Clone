@@ -1,3 +1,3 @@
 # Kokoa_Clone
 
-I am learning how to code
+HTML and CSS got so much better
