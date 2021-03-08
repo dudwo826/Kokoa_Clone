@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=DotGothic16&display=swap");
+@import "reset.css";
+@import "staus_bar.css" body {
+  font-family: "DotGothic16", sans-serif;
+}
+
+.welcome-header {
+  margin-top: 145px;
+  text-align: center;
+}
+.welcome-header__title {
+  margin-bottom: 40px;
+}
