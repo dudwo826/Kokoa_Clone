@@ -1,13 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=DotGothic16&display=swap");
-@import "reset.css";
-@import "staus_bar.css" body {
-  font-family: "DotGothic16", sans-serif;
-}
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
 
-.welcome-header {
-  margin-top: 145px;
-  text-align: center;
-}
-.welcome-header__title {
-  margin-bottom: 40px;
+@import "reset.css";
+@import "variables.css";
+/* Components */
+@import "components/status_bar.css";
+/* screens */
+@import "screens/login.css";
+body {
+  color: #2e363e;
+  font-family: "Open Sans", sans-serif;
 }
